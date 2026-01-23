@@ -43,7 +43,8 @@ h1 {
 }
 
 .tab-container {
-	overflow-x: auto;
+	min-height: max-content;
+	/* overflow-x: auto; */
 }
 
 .tab-button {

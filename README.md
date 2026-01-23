@@ -280,7 +280,7 @@ ISC
 
 ## 👤 Author
 
-Add your name/information here
+Mark Studzinskyi
 
 ## 📞 Support
 
@@ -309,7 +309,5 @@ After completing all chapters:
    - Performance optimization
 
 ---
-
-**Happy Learning! 🚀**
 
 Start with [Chapter 1](./chapter_1/README.md) and progress through each chapter systematically for the best learning experience.
