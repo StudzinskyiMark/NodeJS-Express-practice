@@ -276,7 +276,7 @@ Contributions are welcome! Feel free to:
 
 ## 📄 License
 
-ISC
+MIT License
 
 ## 👤 Author
 
