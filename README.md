@@ -257,14 +257,6 @@ Chapter 3 (Full-Stack)
 - Middleware patterns
 - Error handling
 
-## 🎓 Learning Tips
-
-1. **Start from Chapter 1**: Don't skip fundamentals
-2. **Practice**: Try to build projects on your own after each chapter
-3. **Test APIs**: Use test files and REST clients to verify endpoints
-4. **Experiment**: Modify examples and see how they behave
-5. **Review**: Go back to previous chapters if you need clarification
-
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to:
@@ -282,15 +274,6 @@ MIT License
 
 Mark Studzinskyi
 
-## 📞 Support
-
-For questions or issues:
-
-1. Check the README files in individual chapters
-2. Review code comments
-3. Test with provided test files
-4. Refer to official documentation
-
 ## 🎉 What's Next?
 
 After completing all chapters:
@@ -301,7 +284,6 @@ After completing all chapters:
    - Deployment strategies (Heroku, AWS, Vercel)
    - Docker containerization
    - Testing frameworks (Jest, Mocha)
-   - API documentation (Swagger/OpenAPI)
 3. **Real-World Practices**:
    - CI/CD pipelines
    - Environment management
